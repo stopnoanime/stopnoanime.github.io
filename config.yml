@@ -1,0 +1,9 @@
+baseURL: http://stopnoanime.tk/
+languageCode: en-us
+title: STOP NO Anime
+theme: "PaperMod"
+
+params:
+    homeInfoParams:
+        Title: Hi!
+        Content: A simple blog for documenting my personal projects.
