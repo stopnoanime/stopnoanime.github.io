@@ -1,5 +1,5 @@
 ---
-title: "Yet Another Test"
+title: "Another Test"
 date: 2021-03-07T18:03:46+01:00
 draft: false
 ---
